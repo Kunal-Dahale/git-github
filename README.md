@@ -1,2 +1,2 @@
 # git-github
-First sample Repository to learn github
+First sample Repository to learn github .
